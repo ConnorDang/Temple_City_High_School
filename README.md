@@ -4,7 +4,7 @@ This is not the only version of TCHS that has been made. Plenty of people have m
 
 The original map started off as a bored summer project by Derek L. in the summer of 2019.
 
-After quarantine started in March 2020, the world file was shared and worked on my Derek L, Connor D, and Daniel K. Connor hosted the server on his labtop and it was worked on collaboratively.
+After quarantine started in March 2020, the world file was shared and worked on my Derek L, Connor D, and Daniel K. Connor hosted the server on his laptop and it was worked on collaboratively.
 
 Over the next few weeks, dozens of people were added and worked on the school. The server moved over to a paid server paid for by Connor. Progress slowly stopped as school ended.
 
